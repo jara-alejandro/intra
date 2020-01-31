@@ -1,0 +1,18 @@
+.LetraColor{
+color: red;
+}
+
+.Fondo{
+background-color: red;
+}
+
+.Caption
+    {
+        width: 100%;
+        color: #fff;
+        margin: 0;
+        padding: 5px;
+        background-color: rgba(0,0,0,.5); /* asignar el color y  transparencia */
+        position: absolute;
+        bottom: 0;
+      }
